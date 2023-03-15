@@ -102,7 +102,6 @@ void setup()
 
 void loop()
 {
-    Blynk.run();
-    
+    Blynk.run();    
     timer.run(); 
 }
