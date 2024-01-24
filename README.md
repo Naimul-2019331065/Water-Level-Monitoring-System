@@ -1,20 +1,48 @@
-#Water Level Monitoring System
+# Water Level Monitoring System
 
-This is the project code for CSE 250 (Project II). 
-This system for monitoring liquid levels is based on the Internet of Things (IoT) technology, which includes a mechanism for alerting users in case of liquid overflow or depletion of the tank. An ultrasonic sensor is attached to the water tank to measure the water level and percentage in the tank. The mobile application monitors and controls the entire system, including turning on and off the water pump. Additionally, different colored LED lights indicate the water level in the tank.
+![Project Image](link_to_project_image)
 
-Required components:
-•	NodeMCU ESP8266
-•	5V Relay module 
-•	Wire
-•	3-6V Submersible water-pump
-•	Wire
-•	Tube
-•	Breadboard
-•	Ultrasonic SonarSensor HC-SR04
-•	5V power source
+This project, developed for CSE 250 (Project II), introduces an innovative solution for monitoring liquid levels using Internet of Things (IoT) technology. The system is designed to alert users about potential issues such as liquid overflow or depletion in a tank. It incorporates an ultrasonic sensor to accurately measure the water level and percentage in the tank. The associated mobile application provides users with the ability to monitor and control the entire system, including the option to turn the water pump on or off. Additionally, different colored LED lights are employed to visually indicate the water level in the tank.
 
-Goal of this project:
-1. To eliminate water wastage during refilling the tank.
-2. To reduce the hassle of maintaining the water level of the tank time to time.
+## Components Required
 
+- **NodeMCU ESP8266**
+- **5V Relay Module**
+- **Wire**
+- **3-6V Submersible Water Pump**
+- **Tube**
+- **Breadboard**
+- **Ultrasonic Sonar Sensor HC-SR04**
+- **5V Power Source**
+
+## Project Goals
+
+1. **Water Conservation:** Eliminate water wastage during the tank refilling process.
+2. **Simplified Maintenance:** Reduce the hassle of regularly monitoring and maintaining the water level in the tank.
+
+## Setup Instructions
+
+1. Connect the Ultrasonic Sonar Sensor HC-SR04 to the NodeMCU ESP8266 using wires.
+2. Connect the 5V Relay Module to the NodeMCU ESP8266 to control the submersible water pump.
+3. Attach the submersible water pump to the water tank using a tube.
+4. Set up the breadboard to organize the connections neatly.
+5. Power the system with a 5V power source.
+
+## Usage
+
+1. Install the mobile application provided with the system.
+2. Monitor the water level and percentage through the intuitive mobile interface.
+3. Use the mobile application to control the water pump, turning it on or off as needed.
+4. Observe the different colored LED lights to quickly assess the water level in the tank.
+
+![System Overview](link_to_system_overview_image)
+
+By following these instructions, you can implement an efficient water level monitoring system that contributes to water conservation and simplifies the maintenance of your water tank.
+
+## Disclaimer
+
+This project is for educational purposes and may require adherence to local regulations regarding water systems and IoT devices. Please ensure compliance with applicable laws and standards before implementation.
+
+---
+
+Feel free to customize the README.md file according to your project's specifics and include any additional details, images, or diagrams that enhance the understanding of your IoT-based water level monitoring system.
