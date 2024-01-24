@@ -27,6 +27,7 @@ This project, developed for CSE 250 (Project II), introduces an innovative solut
 3. Attach the submersible water pump to the water tank using a tube.
 4. Set up the breadboard to organize the connections neatly.
 5. Power the system with a 5V power source.
+   ![System Overview](setup.jpg)
 
 ## Usage
 
@@ -35,7 +36,7 @@ This project, developed for CSE 250 (Project II), introduces an innovative solut
 3. Use the mobile application to control the water pump, turning it on or off as needed.
 4. Observe the different colored LED lights to quickly assess the water level in the tank.
 
-![System Overview](link_to_system_overview_image)
+[![System Overview Video]]([https://www.youtube.com/watch?v=MBsSpQnaFzg](https://youtu.be/wzdb5dMC9Hk))
 
 By following these instructions, you can implement an efficient water level monitoring system that contributes to water conservation and simplifies the maintenance of your water tank.
 
