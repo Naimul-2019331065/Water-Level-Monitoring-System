@@ -43,6 +43,3 @@ By following these instructions, you can implement an efficient water level moni
 
 This project is for educational purposes and may require adherence to local regulations regarding water systems and IoT devices. Please ensure compliance with applicable laws and standards before implementation.
 
----
-
-Feel free to customize the README.md file according to your project's specifics and include any additional details, images, or diagrams that enhance the understanding of your IoT-based water level monitoring system.
